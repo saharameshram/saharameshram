@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saharameshram
-- 👀 I’m interested in ...Programming.
+- 👀 I’m interested in ...JAVA
 - 🌱 I’m currently learning ...Full stack
 - 💞️ I’m looking to collaborate on ...Projects
 - 📫 How to reach me ...sahara.meshram29@gmail.com
